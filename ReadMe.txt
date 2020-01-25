@@ -1,1 +1,1 @@
-This is the shopapp
+This is a shopapp I created to test stores, redux, redux thunk and working with firebase.
