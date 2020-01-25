@@ -17,6 +17,9 @@ Features:
     - Place order  
 View Orders,
     - Orders made
+        - Product 1 
+        - Product 2 
+        - Etc...
 Admin, 
     - Add more products to the store 
     - Edit current products 
